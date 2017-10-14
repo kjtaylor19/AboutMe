@@ -1,0 +1,30 @@
+body{
+  background-color: #f8f9fa;
+}
+
+.header{
+  display: block;
+  font-family: Georgia;
+  font-size: 18px;
+  font-style: bold;
+  padding: 0;
+  margin: 0;
+
+}
+
+
+p{
+  font-family: sans-serif, BookAntiqua;
+  font-size: 13px;
+}
+
+
+h5{
+  font-family: sans-serif, Arial;
+  font-size: 15px;
+}
+
+a href{
+  color: blue;
+
+}
