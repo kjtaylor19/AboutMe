@@ -2,19 +2,50 @@ body{
   background-color: #f8f9fa;
 }
 
-.header{
-  display: block;
-  font-family: Georgia;
-  font-size: 18px;
-  font-style: bold;
-  padding: 0;
-  margin: 0;
+.section1 {
+  float: left;
+  width: 15%;
+  background-color: grey;
+}
 
+.wrapper {
+  width: 400px;
+  margin: 0 auto;
+}
+
+.left-col {
+  float: left;
+  width: 25%;
+  background-color: grey;
+}
+
+.section2{
+  float: right;
+  width: 15%;
+  background-color: grey;
+}
+
+.wrapper2{
+  width: 400px;
+  margin: 0 auto;
+}
+
+.right-col {
+  float: right;
+  width: 75%;
+  background-color: grey;
+
+}
+
+img {
+  width: 300px;
+  padding: auto;
+  margin: 15px;
 }
 
 
 p{
-  font-family: sans-serif, BookAntiqua;
+  font-family: sans-serif, Times;
   font-size: 13px;
 }
 
