@@ -21,7 +21,7 @@ body{
 
 .section2{
   float: right;
-  width: 15%;
+  width: 35%;
   background-color: #E5E7E9;
 }
 
@@ -31,8 +31,7 @@ body{
 }
 
 .right-col {
-  float: right;
-  width: 75%;
+  width: 65%;
   background-color: #E5E7E9;
 
 }
@@ -58,4 +57,8 @@ h5{
 a href{
   color: blue;
 
+}
+
+.ul1{
+  list-style-type: none;
 }
