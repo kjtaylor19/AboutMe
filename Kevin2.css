@@ -1,0 +1,129 @@
+body{
+  background-color: #D0D3D4;
+
+}
+
+.container1{
+  float: left;
+  box-sizing: border-box;
+  width: 15%
+}
+
+.container2{
+  float: left;
+  box-sizing: border-box;
+  width: 85%
+}
+
+
+.columnL{
+  float: left;
+  text-align: left;
+  font-size: 18px;
+  width: 15%;
+  height: 100%;
+  margin: auto;
+  box-sizing: border-box;
+
+}
+
+.vl {
+    border-left: 1px  solid grey;
+    border-left-style: outset;
+    height: 100%;
+    left: 15%;
+    position: absolute;
+    margin-left: -3px;
+    top: 0;
+}
+
+img{
+  width: 150px;
+  margin: 1px;
+  padding: 15px;
+  image-orientation: center;
+}
+
+.columnR{
+
+  width: 200px auto;
+  margin: 0px auto;
+}
+
+hr {
+    display: block;
+    border-style: inset;
+    border-width: 1px;
+}
+
+.wrapper1{
+  width: 15%;
+  margin: 1px auto;
+  padding: 5px auto;
+}
+
+.wrapper2{
+  width: 100%;
+  margin: 1px auto;
+}
+
+.wrapperAnchor{
+  float: left;
+  margin: 0px auto;
+  text-decoration: none;
+
+}
+
+.AnchorBox{
+  float: left;
+  width: 25%;
+  height: 85%;
+  border: 1px;
+  border-style: solid;
+  border-color: grey;
+  box-sizing: border-box;
+}
+
+.infoBox{
+  width: 15%;
+  height: 100%;
+  border: 1px solid;
+  box-sizing: border-box;
+  /*border-spacing: 3px;*/
+  float: right;
+  image-orientation: center;
+  image-resolution: 500px;
+}
+
+.clearfix{
+  clear: both;
+}
+
+.header{
+  width: 75%;
+  display: inline-block;
+  text-align: right;
+  color: blue;
+}
+
+
+ul{
+  list-style-type: none;
+}
+
+a{
+  text-decoration: none;
+}
+
+p{
+  font-size: 15px;
+}
+
+
+h3{
+  font-size: 15px;
+}
+
+h2{
+  font-size: 30px;
+}
